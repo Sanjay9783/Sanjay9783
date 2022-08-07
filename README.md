@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm SANJAY A V</h2>
+<h2 align="center">Hi, I'm SANJAY</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanjay9783&label=Profile%20views&color=0e75b6&style=flat" alt="Sanjay9783" /> </p>
 
