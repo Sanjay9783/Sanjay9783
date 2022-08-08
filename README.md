@@ -51,6 +51,10 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sanjay9783&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
+## **STREAK STATS**
+
+<p align = 'center'><img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay9783&theme=gruvbox&hide_border=true" /></p>
+
 ## **CONNECT WITH ME**:
 
 <p align="left">
