@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+</p>
+<br>
+
+
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-25-blue" />
+  <img src="https://img.shields.io/badge/Lives-INDIA-success" />
+  <img src="https://img.shields.io/badge/Languages-Kannada%20,%20Hindi%20%26%20English-brightgreen" />
+</p>
+
 <h2 align="center">Hi, I'm SANJAY</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanjay9783&label=Profile%20views&color=0e75b6&style=flat" alt="Sanjay9783" /> </p>
