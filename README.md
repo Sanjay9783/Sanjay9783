@@ -42,7 +42,7 @@
 </p>
 <br/>
 
-## **My Statistics**
+## ** My Statistics**
   
 <p align="center">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
@@ -53,7 +53,7 @@
 
 ## **STREAK STATS**
 
-<p align = 'center'><img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay9783&theme=gruvbox&hide_border=true" /></p>
+<p align = 'center'><img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay9783&show_icons=true&locale=en&theme=chartreuse-dark" /></p>
 
 ## **Activity Graph** 
 
