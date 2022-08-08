@@ -1,5 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanjay9783&label=Profile%20views&color=0e75b6&style=flat" alt="Sanjay9783" /> </p>
+
 <p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+  <img src="https://user-images.githubusercontent.com/109721928/183339019-00d8fa47-889c-4cdf-b99f-03bab82898de.png" height="200"/>
 </p>
 <br>
 
@@ -11,8 +13,6 @@
 </p>
 
 <h2 align="center">Hi, I'm SANJAY</h2>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanjay9783&label=Profile%20views&color=0e75b6&style=flat" alt="Sanjay9783" /> </p>
 
 <div align='center'>
 <img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Data+Enthusiast'/>
@@ -42,6 +42,8 @@
 </p>
 <br/>
 
+## My Statistics
+  
 <p align="center">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
