@@ -30,8 +30,11 @@
 </p>
 <br/>
 
-## **CONNECT WITH ME**:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
+
+## **CONNECT WITH ME**:
 <p align="left">
 <a href = "https://www.linkedin.com/in/sanjay-a-v-890461227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href='https://github.com/Sanjay9783?tab=followers'>
