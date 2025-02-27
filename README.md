@@ -7,7 +7,7 @@
 
 
  <p align="center">
-<img src="https://img.shields.io/badge/Age-25-blue" />
+<img src="https://img.shields.io/badge/Age-27-blue" />
   <img src="https://img.shields.io/badge/Lives-INDIA-success" />
   <img src="https://img.shields.io/badge/Languages-Kannada%20,%20Hindi%20%26%20English-brightgreen" />
 </p>
